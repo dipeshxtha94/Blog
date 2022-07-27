@@ -1,0 +1,20 @@
+.container{
+  max-width: 35rem;
+  margin: 30px auto;
+}
+
+.center{
+  text-align: center;
+}
+
+.h4{
+  margin-left: 15px;
+  margin-bottom: -5px;
+}
+
+@media only screen and (max-width: 600px){
+  .container{
+    max-width: 20rem;
+    margin: 18px auto;
+  }
+}

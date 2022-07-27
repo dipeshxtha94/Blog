@@ -1,0 +1,7 @@
+{
+  "title": "How to learn nextjs",
+  "content": "React is an amazing framework that allows you to build front-ends that are unmatched in speed, functionality, and ease of use. Where React falls short though is its ability to optimize for search engines. That’s where Next.js comes in. In this course, you will learn to build a giphy search app using the giphy.com API. To kick things off, you’ll learn how to statically optimize a Next.js page, creating an ultra fast loading experience for users. You’ll then dive into the inner workings of creating your giphy search app. In the back half of the course, you will learn how to optimize for SEO, and how to deploy your application. By the end, you will have a great new framework to add to your resume and a new shiny application to add to your portfolio.",
+  "author": "dipesh",
+  "metadesc": "React is an amazing framework that allows you to build front-ends that are unmatched in speed, functionality, and ease of use. Where React falls short though is its ability to optimize for search engines.",
+  "slug": "how-to-learn-nextjs"
+}
